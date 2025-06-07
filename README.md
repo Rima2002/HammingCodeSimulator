@@ -87,8 +87,4 @@ Bu simülatör, Hamming SEC-DED algoritmasının çalışma prensibini hem teori
 
 ## 8. Kaynaklar ve Linkler
 
-- **GitHub (Kaynak Kodlar):**  
-  https://github.com/kullaniciadi/hamming-simulator
-
-- **Demo Videosu (YouTube):**  
-  https://youtube.com/watch?v=demo_link
+- [**Demo Videosu (YouTube)**] (https://youtube.com/watch?v=demo_link](https://www.youtube.com/watch?v=rsFOR4ibPbg)
