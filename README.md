@@ -87,4 +87,4 @@ Bu simülatör, Hamming SEC-DED algoritmasının çalışma prensibini hem teori
 
 ## 8. Kaynaklar ve Linkler
 
-- [**Demo Videosu (YouTube)**] (https://youtube.com/watch?v=demo_link](https://www.youtube.com/watch?v=rsFOR4ibPbg)
+- [**Demo Videosu (YouTube)**](https://www.youtube.com/watch?v=rsFOR4ibPbg)
